@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Marck+Script&family=Pangolin&family=Parisienne&family=Walter+Turncoat&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-font {
+  font-family: 'Walter Turncoat', sans-serif;
+}
